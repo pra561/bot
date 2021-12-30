@@ -114,4 +114,4 @@ async def ban(ctx, user: Member, *, reason="No reason provided"):
     await ctx.send(f"kicked {user.mention} for {reason}")
 
 
-client.run('OTIzOTI2MTk2OTc3Mjc0ODkx.YcXHUw.y_Y2wf8-B_RoWbSQ0OjZiALIVd8')
+client.run('OTIzOTI2MTk2OTc3Mjc0ODkx.YcXHUw.qx6fTjHtU9BlPOfyVdOQC7kqA-Y')
